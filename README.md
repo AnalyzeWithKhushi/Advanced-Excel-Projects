@@ -1,16 +1,8 @@
-# Data Analysis Projects 
-## Project 1: Smart Investment Decisions 
-### Project Overview Analyzed financial and investment data using advanced MS Excel techniques for data wrangling and mining. The datasets were sourced from the real time data available. 
-### Objectives - Analyze financial and investment data to identify key trends and insights. - Create interactive dashboards for data visualization. 
-### Data Sources - **Financial Data Sheet**: Contains metrics such as Gender, Age, Investment Avenues, Mutual Funds, Equity Market, Debentures, Government Bonds, Fixed Deposits, PPF, Gold, Stock Market, Factor, Objective, Purpose, Duration, Invest Monitor, Expect, Avenue, What are your savings objectives?, Reason Equity, Reason Mutual, Reason Bonds, Reason FD, Source, Average Expectancy, Investment Amount, Invested Amount, Avenue, Base Amount. - **Investment Data Sheet**: Includes data like Gender, AGE, Do you invest in Investment Avenues?, Mutual Funds Rank, Equity Market Rank, Debentures Rank, Government Bonds Rank, Fixed Deposits Rank, Public Provident Fund Rank, Gold Rank, Do you invest in Stock Market?, Factors considered while investing, Investment objective?, Purpose behind investment?, Investment Duration, Average investment Duration, Investment Frequency, Investment Return, Preferred Investment, Savings Objectives, Reasons for investing in Equity Market, Reasons for investing in Mutual Funds, Reasons for investing in Government Bonds, Reasons for investing in Fixed Deposits, Average Expected Return, Sources of information for investments, Age Group, Average Rank Score, Invester Type, Return Expectation. 
-### Tools and Techniques - Advanced MS Excel, Pivot Tables and Charts, VLOOKUP, INDEX/MATCH, Conditional Formatting, Dashboard Creation. 
-### Methodology 1. Data Cleaning 2. Data Wrangling 3. Exploratory Data Analysis (EDA) 4. Dashboard Development 
-### Key Findings - Significant trends in income and expenditure. - Investment patterns and returns. - Areas of financial concern. ### Impact - Provided comprehensive data view and facilitated data-driven decision-making. 
+Welcome to my GitHub portfolio—where Excel isn't just spreadsheets, it's strategy. Across each project, I’ve executed the full analytical workflow: from raw data to refined dashboards that drive decisions.
 
+**PO & Shipment Tracker:** Optimized supply chain oversight using Excel dashboards to monitor purchase orders and shipment statuses. Enhanced visibility led to smarter inventory control.
+**Smart Investment Decisions:** Leveraged financial datasets to assess portfolio performance and forecast returns. Used Excel charts and formulas to empower investment choices.
+**Zomato CraveMate:** Analyzed food ordering patterns and customer reviews. Built a dashboard to visualize restaurant ratings and consumer behavior for strategic dining insights.
+**Jewellery Merchandising Project:** Mapped product trends and seasonal demand using Excel pivot tables and visualizations. Delivered a merchandising strategy dashboard for sales and inventory alignment.
 
-## Project 2: ZomatoCrave Mate ### Project Overview Developed to understand customer craving patterns and the timing of cravings using demo data. Created interactive dashboards to visualize the data. 
-### Objectives - Identify craving patterns and peak times for different types of cravings. - Enhance understanding of customer behavior for better service delivery. 
-### Data Sources **Demo Data**: - Restaurant Name, Location, Cuisine, Average Rating, Cost for Two (₹), Price Range, Restaurant Type, Delivery Agent Count, Reviews Count, Delivery Available, Opening Hours, Order Time, Distance (km), Order Quantity, Craving Type, Order Status, Order Delivery Time (min), Meal Type, Promotions Applied, Restaurant Address, Payment Type, Delivery Experience Rating. ### Tools and Techniques - Advanced MS Excel, Pivot Tables and Charts, Conditional Formatting, Dashboard Creation. 
-### Methodology 1. Data Cleaning 2. Data Wrangling 3. Exploratory Data Analysis (EDA) 4. Dashboard Development 
-### Key Findings - Identified peak craving times and types. - Analyzed delivery times and customer satisfaction. 
-### Impact - Improved understanding of customer cravings and behavior. - Enhanced restaurant service delivery strategies. 
+Every dashboard is crafted to convert complex data into clear decisions—Excel is my canvas, insight is the art.
